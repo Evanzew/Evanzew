@@ -6,4 +6,4 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </div>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Evanzew/Evanzew/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Evanzew/Evanzew/assets/github-contribution-grid-snake.gif" /></div>
